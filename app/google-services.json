@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "179096845149",
+    "firebase_url": "https://ecommerce-f1370.firebaseio.com",
+    "project_id": "ecommerce-f1370",
+    "storage_bucket": "ecommerce-f1370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179096845149:android:a6037ffdb4f38fb0",
+        "android_client_info": {
+          "package_name": "com.example.vickyshahi.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179096845149-ndgbq0gbvpkos1vtbgoghnfd37vbf368.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vickyshahi.ecommerce",
+            "certificate_hash": "0789cef32cf353cd8d00f67cb871e552ea077efa"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-1st29GbSf8buQC3hOBHobDC4ieUjkXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179096845149-f5gb3ghom6cdg1kiddtah7dcqpnfa973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
